@@ -8,6 +8,7 @@ public class UnityServerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(UnityServerApplication.class, args);
+        System.out.println("#################");
     }
 
 }
