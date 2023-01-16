@@ -1,4 +1,4 @@
-package icu.cerberus.unityServer;
+package icu.cerberus.unityserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,7 +8,6 @@ public class UnityServerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(UnityServerApplication.class, args);
-        System.out.println("#################");
     }
 
 }

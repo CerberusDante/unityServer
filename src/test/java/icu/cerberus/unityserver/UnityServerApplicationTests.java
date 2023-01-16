@@ -1,4 +1,4 @@
-package icu.cerberus.unityServer;
+package icu.cerberus.unityserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
